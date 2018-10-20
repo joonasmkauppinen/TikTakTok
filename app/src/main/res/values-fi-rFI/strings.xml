@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="result_draw">Tasapeli</string>
+    <string name="result_defeat">Hävisit!</string>
+    <string name="result_victory">Voitit!</string>
+
+    <string name="text_difficulty_easy">helppo</string>
+    <string name="text_difficulty_medium">keskivaikea</string>
+    <string name="text_difficulty_hard">vaikea</string>
+
+    <string name="button_play_again">pelaa uudestaan</string>
+
+    <string name="dialog_title">Opastus</string>
+    <string name="dialog_negative_button">Selvä</string>
+    <string name="dialog_tutorial_palette">- vaihda teemaa</string>
+    <string name="dialog_tutorial_difficulty">- vaihda vaikeusastetta</string>
+    <string name="dialog_tutorial_stats">- tarkastele tuloksiasi</string>
+
+</resources>

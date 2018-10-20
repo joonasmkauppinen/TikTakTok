@@ -1,0 +1,40 @@
+<resources>
+
+    <string translatable="false" name="app_name">TikTakTok</string>
+
+    <string name="result_draw">Draw</string>
+    <string name="result_defeat">Defeat!</string>
+    <string name="result_victory">Victory!</string>
+
+    <string name="text_difficulty_easy">easy</string>
+    <string name="text_difficulty_medium">medium</string>
+    <string name="text_difficulty_hard">hard</string>
+
+    <string name="button_play_again">Play Again</string>
+
+    <string name="dialog_title">Tutorial</string>
+    <string name="dialog_negative_button">OK, got it</string>
+    <string name="dialog_tutorial_palette">- change theme</string>
+    <string name="dialog_tutorial_difficulty">- change difficulty</string>
+    <string name="dialog_tutorial_stats">- view your stats</string>
+
+    <!-- Preferences keys -->
+    <string translatable="false" name="pref_theme">theme</string>
+    <string translatable="false" name="pref_difficulty">difficulty</string>
+    <string translatable="false" name="pref_show_tutorial">showTutorial</string>
+
+    <string translatable="false" name="pref_easy_victory">easyVictory</string>
+    <string translatable="false" name="pref_easy_draw">easyDraw</string>
+    <string translatable="false" name="pref_easy_defeat">easyDefeat</string>
+
+    <string translatable="false" name="pref_medium_victory">mediumVictory</string>
+    <string translatable="false" name="pref_medium_draw">mediumDraw</string>
+    <string translatable="false" name="pref_medium_defeat">mediumDefeat</string>
+
+    <string translatable="false" name="pref_hard_victory">hardVictory</string>
+    <string translatable="false" name="pref_hard_draw">hardDraw</string>
+    <string translatable="false" name="pref_hard_defeat">hardDefeat</string>
+
+
+
+</resources>
